@@ -3,7 +3,7 @@ filterWords: (363) ["annoyingass", "anus", "apeshit", "arse", "arse-hole", "arse
 hideCaptions: false
 hideCaptionsWhenFiltered: undefined
 items: {filters: Array(363), hideCaptions: false, hideCaptionsWhenFiltered: false, pollInterval: 20, postMuteDelay: 0, …}
-muteDelay: undefined
+muteDelay: before the profanity word starts
 poll: undefined
 showCaptionsWhenFiltered: undefined
 this: Window
